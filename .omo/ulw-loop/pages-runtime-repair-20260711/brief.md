@@ -1,1 +1,0 @@
-Fix the deployed GitHub Pages portfolio so Chrome loads the production Vite bundle without site-owned CSP, asset 404, or favicon errors. Remove conflicting deployment behavior, retain the /Personal_Website/ base, verify desktop and mobile in real Chrome, and stop any iteration that exceeds 45 minutes or exhausts available credits.

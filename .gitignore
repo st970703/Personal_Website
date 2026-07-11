@@ -16,4 +16,4 @@ pnpm-debug.log*
 .superpowers/
 .codegraph/
 .omo/
-.qa/screenshots/
+.qa/
